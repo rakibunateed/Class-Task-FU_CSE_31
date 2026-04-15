@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.login {
+    max-width: 450px;
+    margin: 0 auto;
+    padding: 30px 60px;
+    margin-top: 50px;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+    border-radius: 10px;
+
+}
+
+.login-title {
+    color: #000000;
+    font-size: 3.125rem;
+    font-weight: bold;
+    padding-bottom: 19px;
+}
+
+.description {
+    color: #818181;
+    font-size: 1rem;
+    font-weight: 400;
+    padding-bottom: 25px;
+}
+
+input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    accent-color: #7754F6;
+}
+
+
+.data {
+    background-color: #FFFFFF;
+    border: 1px solid #818181;
+    border-radius: 10px;
+    width: 422px;
+    padding: 20px 0 20px 20px;
+}
+
+::placeholder {
+    color: #818181;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.check-item {
+    display: flex;
+    gap: 15px;
+
+
+}
+
+.check-content {
+    display: flex;
+    width: 442px;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+#forgot {
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #7754F6;
+    
+}
+
+#submit {
+    width: 443px;
+    border: 1px solid #818181;
+    border-radius: 10px;
+    background-color: #7754F6;
+    padding: 20px 0 20px 20px;
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-bottom: 25px;
+    
+}
+
+#signup {
+    color: #7754F6;
+    margin-top: 25px;
+}
