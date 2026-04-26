@@ -106,3 +106,19 @@ a {
 a:hover {
     text-decoration: underline;
 }
+.signup-text {
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: 15px;
+    color: #4a5568;
+}
+
+.signup-text a {
+    display: inline;
+    color: #764ba2;
+    margin-left: 5px;
+}
+
+.signup-text a:hover {
+    text-decoration: underline;
+}

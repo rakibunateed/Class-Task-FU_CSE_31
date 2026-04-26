@@ -103,3 +103,11 @@ a {
 a:hover {
     text-decoration: underline;
 }
+.signin-text a {
+    display: inline;
+    text-decoration: none;
+}
+
+.signin-text a:hover {
+    text-decoration: underline;
+}
