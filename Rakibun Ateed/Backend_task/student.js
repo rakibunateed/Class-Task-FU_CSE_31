@@ -1,0 +1,48 @@
+const students = [
+  {
+    name: "Md Rakibun Ateed Ramim",
+    id: "232031015",
+    batch: "31st",
+    program: "BSc in CSE",
+    department: "Computer Science & Engineering",
+    university: "Feni University",
+    semester: "6th",
+    email: "232031015@feniuniversity.ac.bd",
+    cgpa: 3.53,
+  },
+  {
+    name: "Faria Afrin",
+    id: "232031016",
+    batch: "31st",
+    program: "BSc in CSE",
+    department: "Computer Science & Engineering",
+    university: "Feni University",
+    semester: "6th",
+    email: "232031016@feniuniversity.ac.bd",
+    cgpa: 3.62,
+  },
+  {
+    name: "Amit Bhowmik",
+    id: "232031017",
+    batch: "31st",
+    program: "BSc in CSE",
+    department: "Computer Science & Engineering",
+    university: "Feni University",
+    semester: "6th",
+    email: "232031017@feniuniversity.ac.bd",
+    cgpa: 3.68,
+  },
+  {
+    name: "Majadul Islam",
+    id: "232031018",
+    batch: "31st",
+    program: "BSc in CSE",
+    department: "Computer Science & Engineering",
+    university: "Feni University",
+    semester: "6th",
+    email: "232031018@feniuniversity.ac.bd",
+    cgpa: 3.91,
+  },
+];
+
+module.exports = students;
