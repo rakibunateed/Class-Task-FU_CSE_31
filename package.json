@@ -1,0 +1,14 @@
+{
+  "name": "khadija-student-api",
+  "version": "1.0.0",
+  "description": "Unique Student API for ITPM Assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Khadija Akter Sumi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
