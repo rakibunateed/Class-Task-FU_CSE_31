@@ -79,9 +79,9 @@ All endpoints were tested using Postman. Screenshots of each test are included b
 ```json
 [
   {
-    "id": 2,
-    "title": "Build Todo API",
-    "completed": true
+    "id": 1,
+    "title": "Learn Express",
+    "completed": false
   },
   ...
 ]
@@ -99,9 +99,9 @@ All endpoints were tested using Postman. Screenshots of each test are included b
 **Response:**
 ```json
 {
-  "id": 2,
-  "title": "Build Todo API",
-  "completed": true
+  "id": 1,
+    "title": "Learn Express",
+    "completed": false
 }
 ```
 
@@ -216,7 +216,7 @@ All endpoints were tested using Postman. Screenshots of each test are included b
 **Response:**
 ```json
 {
-  "error": "Completed must be boolean"
+  "error": "Todo not found"
 }
 ```
 
