@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Zainab Malik",
+    "email": "zainab@example.com",
+    "grade": "10th"
+  },
+  {
+    "id": 2,
+    "name": "Bilal Siddiqui",
+    "email": "bilal@example.com",
+    "grade": "12th"
+  },
+  {
+    "id": 3,
+    "name": "Ayesha Umar",
+    "email": "ayesha@example.com",
+    "grade": "11th"
+  },
+  {
+    "id": 4,
+    "name": "Hamza Yusuf",
+    "email": "hamza@example.com",
+    "grade": "9th"
+  },
+  {
+    "id": 5,
+    "name": "Mariam Farooq",
+    "email": "mariam@example.com",
+    "grade": "12th"
+  }
+]
